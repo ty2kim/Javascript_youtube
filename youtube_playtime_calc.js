@@ -10,4 +10,4 @@ for(var i = 0; i < timeStampsList.length; i++){
 }
 
 timeStampsTotal = (timeStampsTotal / 60) / 60;
-alert("total duration of this playlist by TAE YOUNG KIM: " + timeStampsTotal);
+alert("Duration of this playlist: " + timeStampsTotal + " hours");
